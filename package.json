@@ -1,0 +1,19 @@
+{
+  "name": "countdown_timer",
+  "version": "1.0.0",
+  "description": "app enabling users to select a number and count down from it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okdemsky/Countdown-Timer.git"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okdemsky/Countdown-Timer/issues"
+  },
+  "homepage": "https://github.com/okdemsky/Countdown-Timer#readme"
+}
